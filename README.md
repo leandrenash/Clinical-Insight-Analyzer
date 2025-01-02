@@ -1,5 +1,8 @@
 # Clinical Trial Data Analysis Platform
 
+<img width="1494" alt="Screenshot 2025-01-02 at 19 22 32" src="https://github.com/user-attachments/assets/8d466f6a-5a9c-41a4-a1a0-4b71731f2f88" />
+
+
 A comprehensive web-based platform designed to support medical researchers in processing, analyzing, and visualizing complex clinical trial datasets. This tool provides statistical analysis capabilities, data visualization, and insights generation for clinical trial data.
 
 ## Features
